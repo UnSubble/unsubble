@@ -76,7 +76,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unsubble&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="152" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=unsubble&theme=dracula&column=5&row=1&margin-w=20&margin-h=10&no-bg=true&no-frame=true&order=4" height="300" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=unsubble&theme=dracula&column=5&row=1&margin-w=20&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
