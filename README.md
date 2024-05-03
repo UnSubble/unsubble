@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm İsmail Kulak from Turkey<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning mySQL and Linux</p>
+<p align="left">I'm İsmail Kulak from Turkey<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Go, Java EE and Linux</p>
 
 ###
 
