@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm İsmail Kulak from Turkey<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Spring Framework MVC and MongoDB</p>
+<p align="left">I'm İsmail Kulak from Turkey<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Competitive Programming</p>
 
 ###
 
@@ -64,6 +64,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50" alt="tomcat logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
 </div>
 
 ###
