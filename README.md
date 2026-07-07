@@ -1,94 +1,76 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unsubble.unsubble&"  />
-</div>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/unsubble/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
+
+# Hi, I'm İsmail Kulak 👋
+
+**Backend Engineer • Systems Programming • Tooling**
+
+Computer Engineer from Türkiye passionate about building high-performance backend systems, developer tools, and scalable software.
+
+🚀 Go • ☕ Java & Spring • ⚙️ C/C++ • 🧩 Competitive Programming
+
+<p>
+  <a href="https://github.com/unsubble" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="unsubble@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/unsubble/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:unsubble@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/unsubble/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/users/unsubble" target="_blank">
+    <img src="https://docs.codewars.com/logo.svg" height="40" alt="Codewars" />
   </a>
   <a href="https://www.hackerrank.com/profile/unsubble" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="48" height="30" alt="hackerrank logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40" alt="HackerRank" />
   </a>
+</p>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey there! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm İsmail Kulak from Turkey<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Competitive Programming</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50" alt="tomcat logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=go,java,c,cpp,bash,spring,mysql,sqlite,redis,docker,linux" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🌱 Currently Learning
 
-###
+- Competitive Programming
+- Compiler Design
+- Operating Systems
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/unsubble?theme=dark&font=JetBrains+Mono&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=unsubble&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=unsubble&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=unsubble&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=10&date_format=j/n%5B/Y%5D&order=3" height="250" alt="streak graph"  />
+
+Thanks for visiting! ⭐
+
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unsubble&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="152" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=unsubble&theme=dracula&column=5&row=1&margin-w=20&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
