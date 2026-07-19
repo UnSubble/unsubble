@@ -21,7 +21,7 @@ Computer Engineer from Türkiye passionate about building high-performance backe
   <a href="https://leetcode.com/u/unsubble/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" alt="LeetCode" />
   </a>
-  <a href="https://www.codewars.com/users/unsubble" target="_blank">
+  <a href="https://www.codewars.com/users/UnSubble" target="_blank">
     <img src="https://docs.codewars.com/logo.svg" height="40" alt="Codewars" />
   </a>
   <a href="https://www.hackerrank.com/profile/unsubble" target="_blank">
@@ -56,7 +56,7 @@ Computer Engineer from Türkiye passionate about building high-performance backe
 </p>
 
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=unsubble&theme=dark" />
+  <img src="https://github.r2v.ch/codewars?user=UnSubble&theme=dark" />
 </p>
 
 ---
